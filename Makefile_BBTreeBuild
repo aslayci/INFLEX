@@ -1,0 +1,2 @@
+all:
+	gcc src/mainBBTreeBuild.c -O2 -lm src/arrayUtils.c src/listUtils.c src/divergence.c src/utils.c src/tree.c src/anderson.c -o INFLEX_TreeBuilding

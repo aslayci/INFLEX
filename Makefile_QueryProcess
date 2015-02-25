@@ -1,0 +1,2 @@
+all: 
+	gcc src/mainINFLEX.c -O3 -lm src/utils.c src/listUtils.c src/simSearch.c src/anderson.c src/tree.c src/divergence.c src/heapsort.c src/minPriorityQueue.c src/RAUtils.c src/arrayUtils.c src/InsertionSort.c   src/aggregation.c -o INFLEX_QueryProcessing
