@@ -1,7 +1,8 @@
 **************************************************************************************************
 *INFLEX software based on the paper: Online Topic-aware Influence Maximization Queries. 
 *Contact author: aslayci@acm.org
-*Redistribution and use in source and binary forms, with or without modifications, are permitted for academic purposes, provided that the proper acknowledgements are done. 
+*Redistribution and use in source and binary forms, with or without modifications, are permitted for 
+*academic purposes, provided that the proper acknowledgements are done. 
 **************************************************************************************************
 
 === Prerequisites ===
