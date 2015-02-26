@@ -1,9 +1,7 @@
-**************************************************************************************************
-*INFLEX software based on the paper: Online Topic-aware Influence Maximization Queries. 
-*Contact author: aslayci@acm.org
-*Redistribution and use in source and binary forms, with or without modifications, are permitted for 
-*academic purposes, provided that the proper acknowledgements are done. 
-**************************************************************************************************
+*** INFLEX software based on the paper: Online Topic-aware Influence Maximization Queries. ***
+*** Contact author: aslayci@acm.org
+*** Redistribution and use in source and binary forms, with or without modifications, are permitted for academic purposes, provided that the proper acknowledgements are done. 
+
 
 === Prerequisites ===
 In order to use INFLEX for answering topic-aware influence maximization queries, first a database of topic distributions that will be used as index points should be created, and the seed sets that will be used as index lists should be precomputed by a standard influence maximization algorithm (i.e., CELF/CELF++). Quality of the results returned by INFLEX heavily depends on the selection of index points - better the simplex coverage, closer the  nearest neighbors retrieved, more similar the seed sets. (section 3.1. contains information)
