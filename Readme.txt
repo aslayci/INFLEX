@@ -1,4 +1,4 @@
-*** INFLEX software based on the paper: Online Topic-aware Influence Maximization Queries. ***
+*** INFLEX software based on the paper: Online Topic-aware Influence Maximization Queries, EDBT14.
 *** Contact author: aslayci@acm.org
 *** Redistribution and use in source and binary forms, with or without modifications, are permitted for academic purposes, provided that the proper acknowledgements are done. 
 
